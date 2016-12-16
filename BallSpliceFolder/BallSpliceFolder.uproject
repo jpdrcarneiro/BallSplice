@@ -2,5 +2,10 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.14",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"WindowsNoEditor"
+	]
 }
