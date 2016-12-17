@@ -377,3 +377,16 @@ LogInit: Object subsystem initialized
 [2016.12.17-19.38.29:691][657]Cmd: DELETE
 [2016.12.17-19.38.29:691][657]Cmd: ACTOR DELETE
 [2016.12.17-19.38.29:692][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2016.12.17-19.38.29:752][657]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2016.12.17-19.46.59:263][595]LogSavePackage: Save=45.51ms
+[2016.12.17-19.46.59:263][595]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/StandardMap_Auto3D5DE819C405F1C0141A67283AD00CCD8.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Maps/StandardMap_Auto3.umap'
+[2016.12.17-19.46.59:265][595]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Maps/StandardMap_Auto3.umap
+[2016.12.17-19.46.59:269][595]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StandardMap' took 0.112
+[2016.12.17-19.46.59:269][595]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.112
+[2016.12.17-19.46.59:273][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/DivisionTile/DivisionTile] ([1] browsable assets)...
+[2016.12.17-19.46.59:437][595]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/DivisionTile/DivisionTile.DivisionTile]
+[2016.12.17-19.46.59:438][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/DivisionTile/DivisionTile]
+[2016.12.17-19.46.59:456][595]LogSavePackage: Save=15.60ms
+[2016.12.17-19.46.59:456][595]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/DivisionTile_Auto32CEAEA9D4E8A923B6276B6B26FD0FADF.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/DivisionTile/DivisionTile_Auto3.uasset'
+[2016.12.17-19.46.59:462][595]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/DivisionTile/DivisionTile_Auto3.uasset
+[2016.12.17-19.46.59:464][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/DivisionTile/Plane001NormalsMap] ([1] browsable assets)...
