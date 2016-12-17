@@ -310,3 +310,70 @@ LogInit: Object subsystem initialized
 [2016.12.17-19.21.11:165][868]LogEditorActor: Deleted 1 Actors (0.145 secs)
 [2016.12.17-19.26.58:044][999]LogSavePackage: Save=172.56ms
 [2016.12.17-19.26.58:044][999]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/StandardMap_Auto18D61A1484F010AAD5B844BB99C8175DD.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Maps/StandardMap_Auto1.umap'
+[2016.12.17-19.26.58:048][999]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Maps/StandardMap_Auto1.umap
+[2016.12.17-19.26.58:053][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StandardMap' took 0.264
+[2016.12.17-19.26.58:053][999]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.264
+[2016.12.17-19.26.58:064][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Ball/Ball] ([1] browsable assets)...
+[2016.12.17-19.26.58:162][999]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/Ball/Ball.Ball]
+[2016.12.17-19.26.58:162][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Ball/Ball]
+[2016.12.17-19.26.58:198][999]LogSavePackage: Save=33.51ms
+[2016.12.17-19.26.58:198][999]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Ball_Auto18FB022444EF4D10B2A56FAB024D926FE.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Ball_Auto1.uasset'
+[2016.12.17-19.26.58:201][999]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Ball_Auto1.uasset
+[2016.12.17-19.26.58:202][999]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Ball/Sphere001DiffuseMapModified03] ([1] browsable assets)...
+[2016.12.17-19.26.58:215][999]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects/Ball/Sphere001DiffuseMapModified03.Sphere001DiffuseMapModified03]
+[2016.12.17-19.26.58:215][999]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Ball/Sphere001DiffuseMapModified03]
+[2016.12.17-19.26.58:234][999]LogSavePackage: Save=16.31ms
+[2016.12.17-19.26.58:234][999]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Sphere001DiffuseMapModified03_Auto14A2A9E714264A1BA4D5F60B4F78F4EA0.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Sphere001DiffuseMapModified03_Auto1.uasset'
+[2016.12.17-19.26.58:236][999]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Sphere001DiffuseMapModified03_Auto1.uasset
+[2016.12.17-19.26.58:236][999]LogFileHelpers: Auto-saving content packages took 0.176
+[2016.12.17-19.33.56:950][513]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Ball/Ball.FBX)
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: Texture, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.17-19.33.56:956][513]LogFbx: ItemName: Video, ItemCount : 1
+[2016.12.17-19.33.56:962][513]LogFbx: Loading FBX Scene from ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Ball/Ball.FBX
+[2016.12.17-19.33.56:997][513]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.17-19.35.26:639][513]LogFbx: Loading FBX Scene from ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Ball/Ball.FBX
+[2016.12.17-19.35.26:647][513]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.17-19.35.26:657][513]LogStaticMesh: Building static mesh Ball...
+[2016.12.17-19.35.26:677][513]LogStaticMesh: Built static mesh [0.02s] /Game/Objects/Ball/Ball.Ball
+[2016.12.17-19.35.26:738][513]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Ball/Sphere001DiffuseMapModified03.bmp)
+[2016.12.17-19.35.26:823][513]LogTexture:Display: Building textures: Sphere001DiffuseMapModified03 (AutoDXT)
+[2016.12.17-19.36.58:601][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StandardMap' took 0.053
+[2016.12.17-19.36.58:605][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Ball/Sphere001DiffuseMapModified03] ([1] browsable assets)...
+[2016.12.17-19.36.58:629][893]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects/Ball/Sphere001DiffuseMapModified03.Sphere001DiffuseMapModified03]
+[2016.12.17-19.36.58:629][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Ball/Sphere001DiffuseMapModified03]
+[2016.12.17-19.36.58:657][893]LogSavePackage: Save=23.29ms
+[2016.12.17-19.36.58:657][893]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Sphere001DiffuseMapModified03_Auto2BE3352D44439F7257C8DE389B5EB426D.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Sphere001DiffuseMapModified03_Auto2.uasset'
+[2016.12.17-19.36.58:697][893]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Sphere001DiffuseMapModified03_Auto2.uasset
+[2016.12.17-19.36.58:699][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Ball/Ball] ([1] browsable assets)...
+[2016.12.17-19.36.58:821][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/Ball/Ball.Ball]
+[2016.12.17-19.36.58:821][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Ball/Ball]
+[2016.12.17-19.36.58:862][893]LogSavePackage: Save=33.95ms
+[2016.12.17-19.36.58:862][893]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Ball_Auto2D15C7E4D4D37D80D6A9053808C2C9B4E.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Ball_Auto2.uasset'
+[2016.12.17-19.36.58:864][893]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Ball_Auto2.uasset
+[2016.12.17-19.36.58:864][893]LogFileHelpers: Auto-saving content packages took 0.261
+[2016.12.17-19.38.03:002][238]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Division/DivisionTile.FBX)
+[2016.12.17-19.38.03:013][238]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.17-19.38.03:013][238]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.17-19.38.03:013][238]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.17-19.38.03:013][238]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.17-19.38.03:013][238]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.17-19.38.03:013][238]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.17-19.38.03:021][238]LogFbx: Loading FBX Scene from ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Division/DivisionTile.FBX
+[2016.12.17-19.38.03:029][238]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.17-19.38.11:811][238]LogFbx: Loading FBX Scene from ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Division/DivisionTile.FBX
+[2016.12.17-19.38.11:820][238]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.17-19.38.11:823][238]LogStaticMesh: Building static mesh DivisionTile...
+[2016.12.17-19.38.11:830][238]LogStaticMesh: Built static mesh [0.01s] /Game/Objects/DivisionTile/DivisionTile.DivisionTile
+[2016.12.17-19.38.11:841][238]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Division/Plane001NormalsMap.png)
+[2016.12.17-19.38.11:949][238]LogTexture:Display: Building textures: Plane001NormalsMap (BC5)
+[2016.12.17-19.38.24:804][483]LogActorFactory: Actor Factory created DivisionTile
+[2016.12.17-19.38.25:394][505]LogActorFactory: Actor Factory created DivisionTile
+[2016.12.17-19.38.29:691][657]Cmd: DELETE
+[2016.12.17-19.38.29:691][657]Cmd: ACTOR DELETE
+[2016.12.17-19.38.29:692][657]LogEditorActor: Deleted Actor: StaticMeshActor
