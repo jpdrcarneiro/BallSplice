@@ -390,3 +390,544 @@ LogInit: Object subsystem initialized
 [2016.12.17-19.46.59:456][595]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/DivisionTile_Auto32CEAEA9D4E8A923B6276B6B26FD0FADF.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/DivisionTile/DivisionTile_Auto3.uasset'
 [2016.12.17-19.46.59:462][595]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/DivisionTile/DivisionTile_Auto3.uasset
 [2016.12.17-19.46.59:464][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/DivisionTile/Plane001NormalsMap] ([1] browsable assets)...
+[2016.12.17-19.46.59:479][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects/DivisionTile/Plane001NormalsMap.Plane001NormalsMap]
+[2016.12.17-19.46.59:479][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/DivisionTile/Plane001NormalsMap]
+[2016.12.17-19.46.59:497][595]LogSavePackage: Save=15.27ms
+[2016.12.17-19.46.59:497][595]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Plane001NormalsMap_Auto3B39EFFD7471CD873DB9E9590BD235CF7.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/DivisionTile/Plane001NormalsMap_Auto3.uasset'
+[2016.12.17-19.46.59:501][595]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/DivisionTile/Plane001NormalsMap_Auto3.uasset
+[2016.12.17-19.46.59:501][595]LogFileHelpers: Auto-saving content packages took 0.229
+[2016.12.17-19.50.21:098][344]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Floor/FloorTile.FBX)
+[2016.12.17-19.50.21:107][344]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2016.12.17-19.50.21:107][344]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2016.12.17-19.50.21:107][344]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2016.12.17-19.50.21:107][344]LogFbx: ItemName: Model, ItemCount : 1
+[2016.12.17-19.50.21:107][344]LogFbx: ItemName: Material, ItemCount : 1
+[2016.12.17-19.50.21:107][344]LogFbx: ItemName: Geometry, ItemCount : 1
+[2016.12.17-19.50.21:113][344]LogFbx: Loading FBX Scene from ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Floor/FloorTile.FBX
+[2016.12.17-19.50.21:120][344]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.17-19.50.27:128][344]LogFbx: Loading FBX Scene from ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Floor/FloorTile.FBX
+[2016.12.17-19.50.27:135][344]LogFbx: FBX Scene Loaded Succesfully
+[2016.12.17-19.50.27:139][344]LogStaticMesh: Building static mesh FloorTile...
+[2016.12.17-19.50.27:146][344]LogStaticMesh: Built static mesh [0.01s] /Game/Objects/FloorTile/FloorTile.FloorTile
+[2016.12.17-19.50.27:156][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/Objects and Map/Floor/Plane001DiffuseMap.png)
+[2016.12.17-19.50.27:221][344]LogTexture:Display: Building textures: Plane001DiffuseMap (AutoDXT)
+[2016.12.17-19.54.30:660][408]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.54.31:550][408]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.54.31:592][408]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-19.56.08:494][217]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.17-19.56.08:494][217]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.17-19.56.08:494][217]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.17-19.57.00:032][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StandardMap' took 0.071
+[2016.12.17-19.57.00:038][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/FloorTile/FloorTile] ([1] browsable assets)...
+[2016.12.17-19.57.00:098][371]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/FloorTile/FloorTile.FloorTile]
+[2016.12.17-19.57.00:098][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/FloorTile/FloorTile]
+[2016.12.17-19.57.00:115][371]LogSavePackage: Save=14.51ms
+[2016.12.17-19.57.00:115][371]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/FloorTile_Auto4655691A74C331E7B9F004AA7672E8D8A.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/FloorTile/FloorTile_Auto4.uasset'
+[2016.12.17-19.57.00:118][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/FloorTile/FloorTile_Auto4.uasset
+[2016.12.17-19.57.00:120][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/FloorTile/Plane001DiffuseMap] ([1] browsable assets)...
+[2016.12.17-19.57.00:131][371]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Objects/FloorTile/Plane001DiffuseMap.Plane001DiffuseMap]
+[2016.12.17-19.57.00:131][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/FloorTile/Plane001DiffuseMap]
+[2016.12.17-19.57.00:143][371]LogSavePackage: Save=10.17ms
+[2016.12.17-19.57.00:143][371]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Plane001DiffuseMap_Auto4761A5D384EE4D1F2ADD2738360AF4F92.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/FloorTile/Plane001DiffuseMap_Auto4.uasset'
+[2016.12.17-19.57.00:144][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/FloorTile/Plane001DiffuseMap_Auto4.uasset
+[2016.12.17-19.57.00:145][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/Ball/Ball_Mat] ([1] browsable assets)...
+[2016.12.17-19.57.00:197][371]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Objects/Ball/Ball_Mat.Ball_Mat]
+[2016.12.17-19.57.00:197][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/Ball/Ball_Mat]
+[2016.12.17-19.57.00:230][371]LogSavePackage: Save=27.01ms
+[2016.12.17-19.57.00:230][371]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Ball_Mat_Auto400C42D3C4B905907182D4D9B3C0B11CE.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Ball_Mat_Auto4.uasset'
+[2016.12.17-19.57.00:233][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Autosaves/Game/Objects/Ball/Ball_Mat_Auto4.uasset
+[2016.12.17-19.57.00:233][371]LogFileHelpers: Auto-saving content packages took 0.199
+[2016.12.17-19.58.39:515][815]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.58.39:528][815]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-19.58.39:529][815]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-19.58.39:588][815]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-19.58.48:290][ 30]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.58.48:314][ 30]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-19.58.48:346][ 30]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-19.59.24:453][ 85]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-19.59.24:453][ 85]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-19.59.24:453][ 85]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-19.59.37:298][436]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.59.37:314][436]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-19.59.37:342][436]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-19.59.40:653][521]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.59.40:672][521]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-19.59.40:705][521]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-19.59.43:855][583]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-19.59.58:675][179]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-19.59.58:688][179]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-19.59.58:689][179]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0, compiling. 
+[2016.12.17-20.00.03:922][324]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.00.03:943][324]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.00.04:007][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.00.04:016][324]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameterSubUV_0, compiling. 
+[2016.12.17-20.00.13:729][522]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.00.13:753][522]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.00.19:045][568]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.00.19:045][568]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.00.19:045][568]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.02.56:057][248]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.02.56:068][248]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.03.01:719][368]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.03.01:766][368]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.03.06:902][520]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.03.06:920][520]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.03.06:953][520]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.03.10:671][615]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.03.10:692][615]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.03.10:721][615]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.03.13:770][694]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.03.13:791][694]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.03.13:836][694]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.03.19:514][761]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 24 instructions
+[2016.12.17-20.03.19:514][761]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.03.19:514][761]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.03.57:063][ 15]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.03.57:090][ 15]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.04.15:471][412]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.04.15:471][412]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.04.15:471][412]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.05.13:266][889]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.05.13:278][889]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.05.17:849][983]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.12.17-20.05.17:860][983]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.05.17:862][983]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2016.12.17-20.05.17:871][983]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.05.17:875][983]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2016.12.17-20.05.17:882][983]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.05.17:884][983]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2016.12.17-20.05.17:892][983]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.05.17:925][983]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionOutput_0, compiling. 
+[2016.12.17-20.05.17:932][983]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFunctionInput_2, compiling. 
+[2016.12.17-20.05.29:060][203]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.05.29:103][203]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.05.35:379][245]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.05.35:379][245]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.05.35:379][245]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.07.50:093][869]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.07.50:121][869]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.07.50:122][869]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCollectionParameter_0, compiling. 
+[2016.12.17-20.08.18:295][623]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.08.18:295][623]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.08.18:295][623]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.08.19:949][658]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.08.19:975][658]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.08.43:502][644]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.08.43:502][644]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.08.43:502][644]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.08.57:136][923]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.08.57:172][923]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.09.09:115][374]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.09.09:128][374]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.09.14:218][513]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.09.14:242][513]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.09.14:273][513]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.09.17:417][609]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.09.17:442][609]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.17-20.09.17:442][609]LogMaterial:Warning: 	(Node SceneColor) Coercion failed: Local0.rgb: float3 -> float2
+[2016.12.17-20.09.17:442][609]LogMaterial:Warning: 	Only translucent materials can use the scene color node.
+[2016.12.17-20.09.17:442][609]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.09.17:444][609]MaterialEditorStats:Error: Error [SM5] (Node SceneColor) Coercion failed: Local0.rgb: float3 -> float2
+[2016.12.17-20.09.17:444][609]MaterialEditorStats:Error: Error [SM5] Only translucent materials can use the scene color node.
+[2016.12.17-20.09.21:855][695]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.09.21:902][695]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.09.25:030][774]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.09.25:050][774]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.09.25:079][774]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.09.34:795][966]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.09.47:516][369]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.09.47:516][369]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.09.47:516][369]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.10.01:510][772]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.01:523][772]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.10.01:554][772]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.10.05:943][858]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.05:971][858]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.10.06:000][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2016.12.17-20.10.20:930][198]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.10.20:930][198]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.10.20:930][198]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.10.24:168][261]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.24:204][261]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.10.28:429][346]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.10.28:430][346]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.10.28:430][346]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.10.29:650][371]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.10.29:650][371]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.10.29:650][371]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.10.33:036][438]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.10.33:036][438]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.10.33:037][438]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.10.33:037][438]MaterialEditorStats: Info Mobile texture samplers: 1/8
+[2016.12.17-20.10.36:716][514]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.12.17-20.10.36:716][514]MaterialEditorStats: Info Vertex shader: 31 instructions
+[2016.12.17-20.10.36:716][514]MaterialEditorStats: Info Texture samplers: 1/16
+[2016.12.17-20.10.36:716][514]MaterialEditorStats: Info Mobile texture samplers: 1/8
+[2016.12.17-20.10.48:738][844]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.48:748][844]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.48:763][844]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.10.48:768][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2016.12.17-20.10.48:781][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2016.12.17-20.10.48:822][844]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.48:822][844]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_ES2, Default Material will be used in game.
+[2016.12.17-20.10.48:822][844]LogMaterial:Warning: 	Cannot force a cast between non-numeric types.
+[2016.12.17-20.10.48:826][844]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.10.48:826][844]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.17-20.10.48:826][844]LogMaterial:Warning: 	Cannot force a cast between non-numeric types.
+[2016.12.17-20.10.48:826][844]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.10.48:856][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2016.12.17-20.10.48:868][844]MaterialEditorStats:Error: Error [SM5] Cannot force a cast between non-numeric types.
+[2016.12.17-20.10.48:868][844]MaterialEditorStats:Error: Error [ES2] Cannot force a cast between non-numeric types.
+[2016.12.17-20.11.47:308][222]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.11.47:309][222]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_ES2, Default Material will be used in game.
+[2016.12.17-20.11.47:309][222]LogMaterial:Warning: 	Cannot force a cast between non-numeric types.
+[2016.12.17-20.11.47:314][222]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.11.47:314][222]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.17-20.11.47:314][222]LogMaterial:Warning: 	Cannot force a cast between non-numeric types.
+[2016.12.17-20.11.47:314][222]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.11.57:426][545]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.11.57:427][545]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_ES2, Default Material will be used in game.
+[2016.12.17-20.11.57:427][545]LogMaterial:Warning: 	Cannot force a cast between non-numeric types.
+[2016.12.17-20.11.57:444][545]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.11.57:444][545]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.17-20.11.57:444][545]LogMaterial:Warning: 	Cannot force a cast between non-numeric types.
+[2016.12.17-20.11.57:444][545]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.12.31:019][116]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.31:043][116]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.31:073][116]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.12.38:176][356]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.38:191][356]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.38:211][356]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.12.44:028][477]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.44:066][477]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.44:090][477]LogMaterial:Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2016.12.17-20.12.44:090][477]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.12.53:498][792]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.53:511][792]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.53:526][792]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.12.53:591][792]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.53:603][792]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_ES2, Default Material will be used in game.
+[2016.12.17-20.12.53:603][792]LogMaterial:Warning: 	Function Blend_ColorBurn: Missing function input 'Base'
+[2016.12.17-20.12.53:603][792]LogMaterial:Warning: 	Function Blend_ColorBurn: Missing function input 'Blend'
+[2016.12.17-20.12.53:606][792]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.53:607][792]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Ball_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2016.12.17-20.12.53:607][792]LogMaterial:Warning: 	Function Blend_ColorBurn: Missing function input 'Base'
+[2016.12.17-20.12.53:607][792]LogMaterial:Warning: 	Function Blend_ColorBurn: Missing function input 'Blend'
+[2016.12.17-20.12.53:607][792]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.12.53:610][792]MaterialEditorStats:Error: Error [SM5] Function Blend_ColorBurn: Missing function input 'Base'
+[2016.12.17-20.12.53:610][792]MaterialEditorStats:Error: Error [SM5] Function Blend_ColorBurn: Missing function input 'Blend'
+[2016.12.17-20.12.53:610][792]MaterialEditorStats:Error: Error [ES2] Function Blend_ColorBurn: Missing function input 'Base'
+[2016.12.17-20.12.53:610][792]MaterialEditorStats:Error: Error [ES2] Function Blend_ColorBurn: Missing function input 'Blend'
+[2016.12.17-20.12.56:665][857]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.56:706][857]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.12.56:728][857]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.13.10:370][371]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 22 instructions
+[2016.12.17-20.13.10:370][371]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.12.17-20.13.10:370][371]MaterialEditorStats: Info Texture samplers: 0/16
+[2016.12.17-20.13.10:370][371]MaterialEditorStats: Info Mobile texture samplers: 0/8
+[2016.12.17-20.16.57:287][ 98]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.16.57:312][ 98]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.16.57:342][ 98]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.16.57:400][ 98]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.16.57:434][ 98]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.16.57:511][ 98]LogMaterial: Missing cached shader map for material Ball_Mat, compiling. 
+[2016.12.17-20.16.57:534][ 98]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.12.17-20.17.01:222][203]LogSavePackage: Save=34.71ms
+[2016.12.17-20.17.01:222][203]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/StandardMap85D6B0804CBE90856A6508B9FC91D4CA.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Maps/StandardMap.umap'
+[2016.12.17-20.17.01:226][203]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Maps/StandardMap.umap
+[2016.12.17-20.17.08:447][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Ball/Ball" FILE="../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Ball.uasset" SILENT=true
+[2016.12.17-20.17.08:473][256]LogSavePackage: Save=20.80ms
+[2016.12.17-20.17.08:473][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/BallA80F36AE435D7740553D31A0EC0E82F5.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Ball.uasset'
+[2016.12.17-20.17.08:477][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Ball.uasset
+[2016.12.17-20.17.13:539][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Ball/Ball_Mat" FILE="../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Ball_Mat.uasset" SILENT=true
+[2016.12.17-20.17.13:558][256]LogSavePackage: Save=16.33ms
+[2016.12.17-20.17.13:558][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Ball_Mat404F26284C8E4F5DD7293EAE7F7B24ED.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Ball_Mat.uasset'
+[2016.12.17-20.17.13:562][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Ball_Mat.uasset
+[2016.12.17-20.17.13:672][256]LogSavePackage: Save=81.65ms
+[2016.12.17-20.17.13:672][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Sphere001DiffuseMapModified03A8DAC8B14B447029A59E439119A9D48C.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Sphere001DiffuseMapModified03.uasset'
+[2016.12.17-20.17.13:675][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/Ball/Sphere001DiffuseMapModified03.uasset
+[2016.12.17-20.17.13:762][256]LogSavePackage: Save=16.33ms
+[2016.12.17-20.17.13:762][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/DivisionTileC5226C1F4909DC51CD5C06A8707CB1ED.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/DivisionTile/DivisionTile.uasset'
+[2016.12.17-20.17.13:766][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/DivisionTile/DivisionTile.uasset
+[2016.12.17-20.17.13:948][256]LogSavePackage: Save=157.50ms
+[2016.12.17-20.17.13:948][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Plane001NormalsMapADE351A04D4D0C7A2DDD64995AE4D4FB.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/DivisionTile/Plane001NormalsMap.uasset'
+[2016.12.17-20.17.13:956][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/DivisionTile/Plane001NormalsMap.uasset
+[2016.12.17-20.17.14:012][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/FloorTile/FloorTile" FILE="../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/FloorTile/FloorTile.uasset" SILENT=true
+[2016.12.17-20.17.14:032][256]LogSavePackage: Save=15.92ms
+[2016.12.17-20.17.14:032][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/FloorTileB1EC80CE4419818D13FCAC9600DCA51F.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/FloorTile/FloorTile.uasset'
+[2016.12.17-20.17.14:037][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/FloorTile/FloorTile.uasset
+[2016.12.17-20.17.14:193][256]LogSavePackage: Save=128.26ms
+[2016.12.17-20.17.14:193][256]LogSavePackage: Moving '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Plane001DiffuseMapF85DC9F5444F98802BCC158A4F547FC0.tmp' to '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/FloorTile/Plane001DiffuseMap.uasset'
+[2016.12.17-20.17.14:196][256]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Objects/FloorTile/Plane001DiffuseMap.uasset
+[2016.12.17-20.17.14:359][256]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.17-20.17.14:359][256]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2016.12.17-20.17.14:731][257]Cmd: QUIT_EDITOR
+[2016.12.17-20.17.15:261][257]LogExit: Preparing to exit.
+[2016.12.17-20.17.17:341][257]LogDirectoryWatcher: A directory notification for 'C:/Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/' was aborted.
+[2016.12.17-20.17.17:675][257]LogExit: Editor shut down
+[2016.12.17-20.17.17:676][257]LogExit: Transaction tracking system shut down
+[2016.12.17-20.17.19:255][257]LogObj: Freed 0b from 0 cluster array pools.
+[2016.12.17-20.17.19:255][257]LogExit: Object subsystem successfully closed.
+[2016.12.17-20.17.19:491][257]LogD3D11RHI: Shutdown
+[2016.12.17-20.17.19:506][257]LogD3D11RHI: CleanupD3DDevice
+[2016.12.17-20.17.19:869][257]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.12.17-20.17.20:698][257]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2016.12.17-20.17.20:698][257]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B068A0F7B-4108-AE4D-C8B6-24A0668D2154%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.1-3224400%2B%2B%2BUE4%2BRelease-4.14&UserID=13b5e8704099e51168d29b8fa531162b%7Cef0286c654004e44a01b8f856353083c%7C8a454f99-d210-4882-8dd1-e5c57fa0705c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2016.12.17-20.17.20:698][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.21:198][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.21:699][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.22:199][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.22:700][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.23:201][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.23:702][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.24:203][257]LogHttp:Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2016.12.17-20.17.24:763][257]LogModuleManager: Shutting down and abandoning module MaterialEditor (242)
+[2016.12.17-20.17.24:763][257]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (241)
+[2016.12.17-20.17.24:775][257]LogModuleManager: Shutting down and abandoning module CrashTracker (240)
+[2016.12.17-20.17.24:787][257]LogModuleManager: Shutting down and abandoning module SceneOutliner (239)
+[2016.12.17-20.17.24:788][257]LogModuleManager: Shutting down and abandoning module WidgetCarousel (238)
+[2016.12.17-20.17.24:788][257]LogModuleManager: Shutting down and abandoning module AddContentDialog (237)
+[2016.12.17-20.17.24:788][257]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2016.12.17-20.17.24:806][257]LogModuleManager: Shutting down and abandoning module GameplayTags (236)
+[2016.12.17-20.17.24:807][257]LogModuleManager: Shutting down and abandoning module EditorWidgets (235)
+[2016.12.17-20.17.24:807][257]LogModuleManager: Shutting down and abandoning module CollectionManager (234)
+[2016.12.17-20.17.24:835][257]LogDirectoryWatcher: A directory notification for 'C:/Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Collections/' was aborted.
+[2016.12.17-20.17.24:835][257]LogDirectoryWatcher: A directory notification for 'C:/Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/Developers/MariaPC/Collections/' was aborted.
+[2016.12.17-20.17.24:835][257]LogDirectoryWatcher: A directory notification for 'C:/Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Saved/Collections/' was aborted.
+[2016.12.17-20.17.24:835][257]LogModuleManager: Shutting down and abandoning module StatsViewer (233)
+[2016.12.17-20.17.24:836][257]LogModuleManager: Shutting down and abandoning module FoliageEdit (232)
+[2016.12.17-20.17.24:846][257]LogModuleManager: Shutting down and abandoning module LandscapeEditor (231)
+[2016.12.17-20.17.24:856][257]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (230)
+[2016.12.17-20.17.24:856][257]LogModuleManager: Shutting down and abandoning module ActorPickerMode (229)
+[2016.12.17-20.17.24:856][257]LogModuleManager: Shutting down and abandoning module GeometryMode (228)
+[2016.12.17-20.17.24:856][257]LogModuleManager: Shutting down and abandoning module TextureAlignMode (227)
+[2016.12.17-20.17.24:856][257]LogModuleManager: Shutting down and abandoning module BspMode (226)
+[2016.12.17-20.17.24:872][257]LogModuleManager: Shutting down and abandoning module HardwareSurvey (225)
+[2016.12.17-20.17.24:886][257]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (224)
+[2016.12.17-20.17.24:891][257]LogModuleManager: Shutting down and abandoning module AutomationWorker (223)
+[2016.12.17-20.17.24:901][257]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (222)
+[2016.12.17-20.17.24:910][257]LogModuleManager: Shutting down and abandoning module PlacementMode (221)
+[2016.12.17-20.17.24:925][257]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (220)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (219)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (218)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (217)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (216)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module Media (215)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (214)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (213)
+[2016.12.17-20.17.24:957][257]LogModuleManager: Shutting down and abandoning module CharacterAI (212)
+[2016.12.17-20.17.24:958][257]LogModuleManager: Shutting down and abandoning module SequenceRecorder (211)
+[2016.12.17-20.17.24:966][257]LogModuleManager: Shutting down and abandoning module AudioCapture (210)
+[2016.12.17-20.17.24:966][257]LogModuleManager: Shutting down and abandoning module SmartSnapping (209)
+[2016.12.17-20.17.24:966][257]LogModuleManager: Shutting down and abandoning module SessionServices (208)
+[2016.12.17-20.17.24:966][257]LogModuleManager: Shutting down and abandoning module ViewportSnapping (207)
+[2016.12.17-20.17.24:966][257]LogModuleManager: Shutting down and abandoning module ViewportInteraction (206)
+[2016.12.17-20.17.24:966][257]LogModuleManager: Shutting down and abandoning module LogVisualizer (205)
+[2016.12.17-20.17.24:994][257]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (204)
+[2016.12.17-20.17.24:994][257]LogModuleManager: Shutting down and abandoning module IntroTutorials (203)
+[2016.12.17-20.17.25:011][257]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (202)
+[2016.12.17-20.17.25:011][257]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (201)
+[2016.12.17-20.17.25:021][257]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (200)
+[2016.12.17-20.17.25:022][257]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (199)
+[2016.12.17-20.17.26:032][257]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (198)
+[2016.12.17-20.17.26:067][257]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (197)
+[2016.12.17-20.17.26:067][257]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (196)
+[2016.12.17-20.17.26:067][257]LogModuleManager: Shutting down and abandoning module InputBindingEditor (195)
+[2016.12.17-20.17.26:116][257]LogModuleManager: Shutting down and abandoning module NiagaraEditor (194)
+[2016.12.17-20.17.26:212][257]LogModuleManager: Shutting down and abandoning module MergeActors (193)
+[2016.12.17-20.17.26:225][257]LogModuleManager: Shutting down and abandoning module SizeMap (192)
+[2016.12.17-20.17.26:237][257]LogModuleManager: Shutting down and abandoning module TreeMap (191)
+[2016.12.17-20.17.26:249][257]LogModuleManager: Shutting down and abandoning module ReferenceViewer (190)
+[2016.12.17-20.17.26:249][257]LogModuleManager: Shutting down and abandoning module LocalizationService (189)
+[2016.12.17-20.17.26:266][257]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (188)
+[2016.12.17-20.17.26:284][257]LogModuleManager: Shutting down and abandoning module HardwareTargeting (187)
+[2016.12.17-20.17.26:284][257]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (186)
+[2016.12.17-20.17.26:299][257]LogModuleManager: Shutting down and abandoning module UndoHistory (185)
+[2016.12.17-20.17.26:309][257]LogModuleManager: Shutting down and abandoning module UserFeedback (184)
+[2016.12.17-20.17.26:309][257]LogModuleManager: Shutting down and abandoning module XmlParser (183)
+[2016.12.17-20.17.26:313][257]LogModuleManager: Shutting down and abandoning module Blutility (182)
+[2016.12.17-20.17.26:328][257]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (181)
+[2016.12.17-20.17.26:329][257]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (180)
+[2016.12.17-20.17.26:329][257]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (179)
+[2016.12.17-20.17.26:330][257]LogModuleManager: Shutting down and abandoning module SettingsEditor (178)
+[2016.12.17-20.17.26:346][257]LogModuleManager: Shutting down and abandoning module ProjectLauncher (177)
+[2016.12.17-20.17.26:378][257]LogModuleManager: Shutting down and abandoning module SessionFrontend (176)
+[2016.12.17-20.17.26:393][257]LogModuleManager: Shutting down and abandoning module ProfilerClient (175)
+[2016.12.17-20.17.26:403][257]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (174)
+[2016.12.17-20.17.26:403][257]LogModuleManager: Shutting down and abandoning module DeviceManager (173)
+[2016.12.17-20.17.26:462][257]LogModuleManager: Shutting down and abandoning module AutomationController (172)
+[2016.12.17-20.17.26:479][257]LogModuleManager: Shutting down and abandoning module AutomationWindow (171)
+[2016.12.17-20.17.26:505][257]LogModuleManager: Shutting down and abandoning module Layers (170)
+[2016.12.17-20.17.26:535][257]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (169)
+[2016.12.17-20.17.26:535][257]LogModuleManager: Shutting down and abandoning module DetailCustomizations (168)
+[2016.12.17-20.17.26:535][257]LogModuleManager: Shutting down and abandoning module PackagesDialog (167)
+[2016.12.17-20.17.26:536][257]LogModuleManager: Shutting down and abandoning module AnimGraph (166)
+[2016.12.17-20.17.26:536][257]LogModuleManager: Shutting down and abandoning module Persona (165)
+[2016.12.17-20.17.26:561][257]LogModuleManager: Shutting down and abandoning module Kismet (164)
+[2016.12.17-20.17.26:561][257]LogModuleManager: Shutting down and abandoning module GraphEditor (163)
+[2016.12.17-20.17.26:562][257]LogModuleManager: Shutting down and abandoning module ClassViewer (162)
+[2016.12.17-20.17.26:562][257]LogModuleManager: Shutting down and abandoning module Toolbox (161)
+[2016.12.17-20.17.26:569][257]LogModuleManager: Shutting down and abandoning module ModuleUI (160)
+[2016.12.17-20.17.26:584][257]LogModuleManager: Shutting down and abandoning module MovieSceneTools (159)
+[2016.12.17-20.17.26:584][257]LogModuleManager: Shutting down and abandoning module OutputLog (158)
+[2016.12.17-20.17.26:600][257]LogModuleManager: Shutting down and abandoning module GammaUI (157)
+[2016.12.17-20.17.26:619][257]LogModuleManager: Shutting down and abandoning module Documentation (156)
+[2016.12.17-20.17.26:619][257]LogModuleManager: Shutting down and abandoning module Niagara (155)
+[2016.12.17-20.17.26:619][257]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (154)
+[2016.12.17-20.17.26:620][257]LogModuleManager: Shutting down and abandoning module AnalyticsET (153)
+[2016.12.17-20.17.26:620][257]LogModuleManager: Shutting down and abandoning module PortalServices (152)
+[2016.12.17-20.17.26:620][257]LogModuleManager: Shutting down and abandoning module PortalRpc (151)
+[2016.12.17-20.17.26:620][257]LogModuleManager: Shutting down and abandoning module MessagingRpc (150)
+[2016.12.17-20.17.26:620][257]LogModuleManager: Shutting down and abandoning module GameplayDebugger (149)
+[2016.12.17-20.17.26:620][257]LogModuleManager: Shutting down and abandoning module AITestSuite (148)
+[2016.12.17-20.17.26:631][257]LogModuleManager: Shutting down and abandoning module AIModule (147)
+[2016.12.17-20.17.26:631][257]LogModuleManager: Shutting down and abandoning module ProfilerService (146)
+[2016.12.17-20.17.26:877][257]LogModuleManager: Shutting down and abandoning module TaskGraph (145)
+[2016.12.17-20.17.26:918][257]LogModuleManager: Shutting down and abandoning module SlateRemote (144)
+[2016.12.17-20.17.26:918][257]LogModuleManager: Shutting down and abandoning module SteamVRController (143)
+[2016.12.17-20.17.26:918][257]LogModuleManager: Shutting down and abandoning module SteamVR (142)
+[2016.12.17-20.17.26:918][257]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (141)
+[2016.12.17-20.17.26:929][257]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (140)
+[2016.12.17-20.17.26:950][257]LogModuleManager: Shutting down and abandoning module OculusLibrary (139)
+[2016.12.17-20.17.26:950][257]LogModuleManager: Shutting down and abandoning module OculusInput (138)
+[2016.12.17-20.17.26:950][257]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (137)
+[2016.12.17-20.17.26:950][257]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (136)
+[2016.12.17-20.17.26:950][257]LogModuleManager: Shutting down and abandoning module CableComponent (135)
+[2016.12.17-20.17.26:961][257]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (134)
+[2016.12.17-20.17.26:961][257]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (132)
+[2016.12.17-20.17.27:010][257]LogModuleManager: Shutting down and abandoning module HTML5Networking (131)
+[2016.12.17-20.17.27:010][257]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (130)
+[2016.12.17-20.17.27:012][257]LogModuleManager: Shutting down and abandoning module GeometryCache (129)
+[2016.12.17-20.17.27:012][257]LogModuleManager: Shutting down and abandoning module AlembicLibrary (128)
+[2016.12.17-20.17.27:024][257]LogModuleManager: Shutting down and abandoning module AlembicImporter (127)
+[2016.12.17-20.17.27:033][257]LogModuleManager: Shutting down and abandoning module SuperSearch (126)
+[2016.12.17-20.17.27:033][257]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (125)
+[2016.12.17-20.17.27:033][257]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (124)
+[2016.12.17-20.17.27:033][257]LogModuleManager: Shutting down and abandoning module PluginBrowser (123)
+[2016.12.17-20.17.27:086][257]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (122)
+[2016.12.17-20.17.27:157][257]LogModuleManager: Shutting down and abandoning module EpicSurvey (121)
+[2016.12.17-20.17.27:164][257]LogModuleManager: Shutting down and abandoning module DesktopPlatform (120)
+[2016.12.17-20.17.27:164][257]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (119)
+[2016.12.17-20.17.27:177][257]LogModuleManager: Shutting down and abandoning module UObjectPlugin (118)
+[2016.12.17-20.17.27:177][257]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (117)
+[2016.12.17-20.17.27:195][257]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (116)
+[2016.12.17-20.17.27:225][257]LogModuleManager: Shutting down and abandoning module SourceControl (115)
+[2016.12.17-20.17.27:225][257]LogModuleManager: Shutting down and abandoning module GitSourceControl (114)
+[2016.12.17-20.17.27:238][257]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (113)
+[2016.12.17-20.17.27:238][257]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (112)
+[2016.12.17-20.17.27:248][257]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (111)
+[2016.12.17-20.17.27:248][257]LogModuleManager: Shutting down and abandoning module MeshPaint (110)
+[2016.12.17-20.17.27:248][257]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (109)
+[2016.12.17-20.17.27:261][257]LogModuleManager: Shutting down and abandoning module HotReload (108)
+[2016.12.17-20.17.27:278][257]LogModuleManager: Shutting down and abandoning module MainFrame (107)
+[2016.12.17-20.17.27:278][257]LogModuleManager: Shutting down and abandoning module LevelEditor (106)
+[2016.12.17-20.17.27:282][257]LogModuleManager: Shutting down and abandoning module ContentBrowser (105)
+[2016.12.17-20.17.27:288][257]LogModuleManager: Shutting down and abandoning module Paper2DEditor (104)
+[2016.12.17-20.17.27:300][257]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2016.12.17-20.17.27:400][257]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2016.12.17-20.17.27:528][257]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2016.12.17-20.17.27:528][257]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2016.12.17-20.17.27:555][257]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2016.12.17-20.17.27:594][257]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2016.12.17-20.17.27:610][257]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2016.12.17-20.17.27:610][257]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2016.12.17-20.17.27:623][257]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2016.12.17-20.17.27:624][257]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2016.12.17-20.17.27:624][257]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2016.12.17-20.17.27:624][257]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2016.12.17-20.17.27:698][257]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2016.12.17-20.17.27:725][257]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2016.12.17-20.17.27:769][257]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2016.12.17-20.17.27:770][257]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2016.12.17-20.17.27:770][257]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2016.12.17-20.17.27:770][257]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2016.12.17-20.17.27:818][257]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2016.12.17-20.17.27:818][257]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2016.12.17-20.17.27:819][257]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2016.12.17-20.17.27:895][257]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2016.12.17-20.17.27:895][257]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2016.12.17-20.17.27:931][257]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2016.12.17-20.17.27:931][257]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2016.12.17-20.17.27:932][257]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2016.12.17-20.17.27:932][257]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2016.12.17-20.17.27:932][257]LogModuleManager: Shutting down and abandoning module Core (75)
+[2016.12.17-20.17.27:932][257]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2016.12.17-20.17.27:932][257]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2016.12.17-20.17.27:934][257]LogDirectoryWatcher: A directory notification for '../../../../../../Users/MariaPC/Documents/GitHub/BallSplice/BallSpliceFolder/Content/' was aborted.
+[2016.12.17-20.17.27:936][257]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2016.12.17-20.17.27:944][257]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2016.12.17-20.17.28:153][257]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2016.12.17-20.17.28:154][257]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2016.12.17-20.17.28:154][257]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2016.12.17-20.17.28:225][257]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2016.12.17-20.17.28:237][257]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2016.12.17-20.17.28:254][257]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2016.12.17-20.17.28:254][257]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2016.12.17-20.17.28:278][257]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2016.12.17-20.17.28:366][257]LogDerivedDataCache: Shutdown
+[2016.12.17-20.17.28:366][257]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2016.12.17-20.17.28:378][257]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2016.12.17-20.17.28:427][257]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2016.12.17-20.17.28:446][257]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2016.12.17-20.17.28:456][257]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2016.12.17-20.17.28:456][257]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2016.12.17-20.17.28:484][257]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2016.12.17-20.17.28:484][257]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2016.12.17-20.17.28:522][257]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2016.12.17-20.17.28:522][257]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2016.12.17-20.17.28:522][257]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2016.12.17-20.17.28:522][257]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2016.12.17-20.17.28:537][257]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2016.12.17-20.17.28:555][257]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2016.12.17-20.17.28:555][257]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2016.12.17-20.17.28:555][257]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2016.12.17-20.17.28:570][257]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2016.12.17-20.17.28:579][257]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2016.12.17-20.17.28:641][257]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2016.12.17-20.17.28:642][257]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2016.12.17-20.17.28:642][257]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2016.12.17-20.17.28:642][257]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2016.12.17-20.17.28:642][257]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2016.12.17-20.17.28:642][257]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2016.12.17-20.17.28:642][257]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2016.12.17-20.17.28:680][257]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2016.12.17-20.17.28:692][257]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2016.12.17-20.17.28:718][257]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2016.12.17-20.17.28:719][257]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2016.12.17-20.17.28:719][257]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2016.12.17-20.17.28:719][257]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2016.12.17-20.17.28:719][257]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2016.12.17-20.17.28:719][257]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2016.12.17-20.17.28:720][257]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2016.12.17-20.17.28:720][257]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2016.12.17-20.17.28:721][257]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2016.12.17-20.17.28:739][257]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2016.12.17-20.17.28:740][257]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2016.12.17-20.17.28:740][257]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2016.12.17-20.17.28:740][257]LogOnline:Display: Unloading online subsystem: NULL
+[2016.12.17-20.17.28:787][257]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2016.12.17-20.17.28:799][257]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2016.12.17-20.17.28:799][257]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2016.12.17-20.17.28:827][257]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.12.17-20.17.28:828][257]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.12.17-20.17.28:828][257]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.12.17-20.17.28:828][257]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.12.17-20.17.28:901][257]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.12.17-20.17.28:908][257]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.12.17-20.17.28:908][257]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.12.17-20.17.28:908][257]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.12.17-20.17.28:909][257]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.12.17-20.17.28:909][257]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.12.17-20.17.28:909][257]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.12.17-20.17.28:956][257]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.12.17-20.17.28:963][257]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.12.17-20.17.28:963][257]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.12.17-20.17.28:968][257]LogExit: Exiting.
+[2016.12.17-20.17.29:020][257]Log file closed, 12/17/16 14:17:29
