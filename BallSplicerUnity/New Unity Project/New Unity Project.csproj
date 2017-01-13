@@ -81,8 +81,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Resources\itemContainer.cs" />
+    <Compile Include="Assets\Resources\itemDatabase.cs" />
+    <Compile Include="Assets\SQLiteDatabase\Example\DatabaseExample.cs" />
     <Compile Include="Assets\Script\BallMovement.cs" />
     <Compile Include="Assets\Script\SetScreenandMap.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Resources\itemsDatabase.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

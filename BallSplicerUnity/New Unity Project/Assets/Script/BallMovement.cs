@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using SQLiteDatabase;
 
 public class BallMovement : MonoBehaviour {
 
@@ -69,9 +70,21 @@ public class BallMovement : MonoBehaviour {
             }else if (x > 13f)
             {
                 x = x - 3;
-            }else
+            }else if (x < -13f)
             {
                 x = x + 3;
+            }
+            else if (x > 25f)
+            {
+                x = x - 15f;
+            }
+            else if (x < -25)
+            {
+                x = x + 15;
+            }
+            else
+            {
+                x = 10f;
             }
 
             float y = ySpeed + 5 * number * Time.deltaTime;
@@ -87,9 +100,21 @@ public class BallMovement : MonoBehaviour {
             {
                 y = y - 3;
             }
-            else
+            else if (y < -13f)
             {
                 y = y + 3;
+            }
+            else if (y > 25f)
+            {
+                y = y - 15f;
+            }
+            else if (y < -25)
+            {
+                y = y + 15;
+            }
+            else
+            {
+                y = 10f;
             }
 
             float z = zSpeed;
