@@ -1,0 +1,9 @@
+<?xml version="1.0" enconding="UTF-8"?>
+<ItemCollection>
+    <Items>
+        <Item name="Ball">
+            <Damage>5</Damage>
+            <CountofBalls>1</CountofBalls>
+        </Item>
+    </Items>
+</ItemCollection>
